@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  1 09:58:51 2018
 
-@author: DST_AI
+@author: Mallikarjun Dodmani
 """
 
 # Visualize training history
